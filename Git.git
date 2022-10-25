@@ -1,0 +1,16 @@
+What is Git?
+Git is a vesion control system which is free and open source and can effiiently and quivkly handle projects of all sizes.
+Advantages :-
+Free and Open Source
+Super Fast
+Scalable
+
+Note :- Linus Torwals developed Git in the year 2005.
+
+There are two types of Version Control SAystem :-
+a) Centralised :- In this, all the systems or nodes are connected with each other through a central server. Its major disadavntage is if the server goes offline, the connection with all the nodes will be lost, i.e., none of the members can access the files stored on the server. Eg :- Microsoft Team Foundation Server. 
+b) Distributed :- In this, all the members have seperate copies with them and they can modify accordingly. They can also synchronize all these modifications with all the other members very easily with the help of internet. They are more powerful. Eg :- Git amd Mercurial.
+Note that whenever we create a repository for our project, an additional .git folder is created within that contains all the history, i.e., the number pf commits, the time and date of all the commits done.
+
+What is Git Repository?
+A Git Repo is a workspace that keeps track and manages files within a folder.
